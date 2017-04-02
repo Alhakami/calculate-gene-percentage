@@ -1,5 +1,5 @@
-# calculate-gene-percentage
-A perl script that calculates gene percentage in genome assembly given a FASTA file containing list of genes.
+# Calculate gene percentage
+A perl script that calculates estimated gene percentage in genome assembly given a FASTA file containing list of genes.
 
 ## Prerequistes
 * [Perl5](https://dev.perl.org/perl5/)
