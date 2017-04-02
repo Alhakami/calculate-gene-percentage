@@ -1,4 +1,4 @@
-# Calculate gene percentage
+# Calculate gene percentage  [![DOI](https://zenodo.org/badge/87009573.svg)](https://zenodo.org/badge/latestdoi/87009573)
 A perl script that calculates estimated gene percentage in genome assembly given a FASTA file containing list of genes.
 
 ## Prerequistes
